@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cpugz aka George!
+- 👀 I’m interested in all types of software programming and web dev
+- 🌱 I’m currently learning computer science. Learning python, and have briefly used html, css, javascript, and java
+- 💞️ I’m looking to collaborate and meet coding nerds like me
+- 📫 How to reach me: discord: cpugz#9294
